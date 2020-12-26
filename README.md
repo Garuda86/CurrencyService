@@ -1,6 +1,6 @@
 ##To run API locally:
 ```
-git clone https:
+git clone https://github.com/Garuda86/CurrencyService
 
 http://localhost:8081/currency/
 ```
